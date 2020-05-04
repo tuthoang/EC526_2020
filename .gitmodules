@@ -1,0 +1,3 @@
+[submodule "Project_Oliveira_Hoang_K_cluster/Parallel-K-Means"]
+	path = Project_Oliveira_Hoang_K_cluster/Parallel-K-Means
+	url = https://github.com/tuthoang/Parallel-K-Means.git
